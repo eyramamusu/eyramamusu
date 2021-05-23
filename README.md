@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a python project
 - 📫 How to reach me ; LinkedIn - Eyram Amusu
-Twitter - @amusueyram Facebook & Instagram Eyram Amusu
+@amusueyram Facebook, Instagram & Twitter
 
 <!---
 eyramamusu/eyramamusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
